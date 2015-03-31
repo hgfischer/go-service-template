@@ -23,6 +23,7 @@
 	* https://github.com/gregjones/httpcache
 	* https://github.com/golang/groupcache
 	* https://github.com/bradfitz/http2
+	* https://github.com/peterbourgon/gokit
 
 * Requirements
 	* Monitoring
